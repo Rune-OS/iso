@@ -1,0 +1,11 @@
+NAME="RuneOS"
+PRETTY_NAME="RuneOS"
+ID=runeos
+BUILD_ID=rolling
+HOME_URL="https://github.com/Rune-OS/"
+DOCUMENTATION_URL="https://github.com/Rune-OS/"
+SUPPORT_URL="https://github.com/Rune-OS"
+BUG_REPORT_URL="https://github.com/Rune-OS"
+LOGO=archlinux-logo
+ANSI_COLOR="0;33"
+
