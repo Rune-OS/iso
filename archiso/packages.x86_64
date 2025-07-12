@@ -54,8 +54,6 @@ linux-headers
 linux-atm
 linux-firmware
 linux-firmware-marvell
-linux-lts
-linux-lts-headers
 livecd-sounds
 lsscsi
 lvm2
