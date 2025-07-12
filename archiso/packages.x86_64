@@ -49,14 +49,11 @@ less
 lftp
 libfido2
 libusb-compat
-
-# Kernels
 linux
 linux-headers
 linux-atm
 linux-firmware
 linux-firmware-marvell
-
 linux-lts
 linux-lts-headers
 livecd-sounds
