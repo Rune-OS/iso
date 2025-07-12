@@ -10,6 +10,7 @@ bolt
 brltty
 broadcom-wl
 btrfs-progs
+calamares
 clonezilla
 cloud-init
 cryptsetup
@@ -44,6 +45,8 @@ iw
 iwd
 jfsutils
 kitty-terminfo
+konsole
+kpmcore
 ldns
 less
 lftp
