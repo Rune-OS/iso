@@ -10,7 +10,6 @@ bolt
 brltty
 broadcom-wl
 btrfs-progs
-calamares
 clonezilla
 cloud-init
 cryptsetup
@@ -98,13 +97,6 @@ pptpclient
 pv
 qemu-guest-agent
 qt5-declarative
-qt5-location
-qt5-svg
-qt5-tools
-qt5-translations
-qt5-webengine
-qt5-xmlpatterns
-qt5ct
 qt6-declarative
 refind
 reflector
